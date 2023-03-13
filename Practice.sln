@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassToGeneric", "ClassToGe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassToIEnumberableGeneric", "ClassToIEnumberableGeneric\ClassToIEnumberableGeneric.csproj", "{D988D36A-D6AE-4F57-9C44-B349D5CAEBA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{21D43758-1D70-4579-8923-CC48FDBB2F5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependancyInjectionExample", "DependancyInjectionExample\DependancyInjectionExample.csproj", "{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D988D36A-D6AE-4F57-9C44-B349D5CAEBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D988D36A-D6AE-4F57-9C44-B349D5CAEBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D988D36A-D6AE-4F57-9C44-B349D5CAEBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D43758-1D70-4579-8923-CC48FDBB2F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D43758-1D70-4579-8923-CC48FDBB2F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D43758-1D70-4579-8923-CC48FDBB2F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D43758-1D70-4579-8923-CC48FDBB2F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

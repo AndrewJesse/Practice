@@ -13,7 +13,7 @@ public class Program
             new Product { Id = 2, Name = "Hat", Price = 5.0 },
             new Product { Id = 2, Name = "Gloves", Price = 5.0 }
         };
-
+        // Call the method with the Enumerable Product 'Class' Type
         DisplayProducts(products);
     }
 
