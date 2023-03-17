@@ -1,27 +1,28 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
 
 
 namespace Lambdas
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
+            // Create data set
             int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 
-            // Lambda expression to filter even numbers
-            var evenNumbers = numbers.Where(n => n % 2 == 0);
+            // From the array above, return the numbers greater than 6
+            var newLinq = numbers.Where(n => n > 6);
 
-            var newLinq = numbers.Sum(n => n);
+            // Instead of a for each loop
+            newLinq.ToList().ForEach(n => Console.WriteLine(n));
 
-            Console.WriteLine("Even numbers:");
-            foreach (var number in evenNumbers)
+            // What the above method accomplishes
+            foreach (var n in newLinq)
             {
-                Console.WriteLine(number);
+                Console.WriteLine(n);
             }
-            Console.WriteLine(newLinq);
         }
-
     }
 }
