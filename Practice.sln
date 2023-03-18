@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectToGeneric", "ConsoleApp1\ObjectToGeneric.csproj", "{510903B6-9FB8-4341-B302-526901301B71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectToGeneric", "ConsoleApp1\ObjectToGeneric.csproj", "{510903B6-9FB8-4341-B302-526901301B71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodToGeneric", "MethodToGeneric\MethodToGeneric.csproj", "{CB0E7E14-6C25-46FD-8172-DFADFF6C2111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodToGeneric", "MethodToGeneric\MethodToGeneric.csproj", "{CB0E7E14-6C25-46FD-8172-DFADFF6C2111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassToGeneric", "ClassToGeneric\ClassToGeneric.csproj", "{B7D60D9E-B2FB-4743-9289-0497B681BC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassToGeneric", "ClassToGeneric\ClassToGeneric.csproj", "{B7D60D9E-B2FB-4743-9289-0497B681BC82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassToIEnumberableGeneric", "ClassToIEnumberableGeneric\ClassToIEnumberableGeneric.csproj", "{D988D36A-D6AE-4F57-9C44-B349D5CAEBA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassToIEnumberableGeneric", "ClassToIEnumberableGeneric\ClassToIEnumberableGeneric.csproj", "{D988D36A-D6AE-4F57-9C44-B349D5CAEBA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{21D43758-1D70-4579-8923-CC48FDBB2F5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryPattern", "Lambdas\RepositoryPattern.csproj", "{21D43758-1D70-4579-8923-CC48FDBB2F5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependancyInjectionExample", "DependancyInjectionExample\DependancyInjectionExample.csproj", "{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependancyInjectionExample", "DependancyInjectionExample\DependancyInjectionExample.csproj", "{E0CC64BF-CEF1-48CE-B30C-92D2159314E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
