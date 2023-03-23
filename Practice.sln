@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "As", "As\As.csproj", "{40CA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryConditionalOperator", "TernaryConditionalOperator\TernaryConditionalOperator.csproj", "{A50C9F68-0CF3-469F-B4A2-788663B56070}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{9AD527E2-4C7F-4BD6-A339-FAF0248AB7BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A50C9F68-0CF3-469F-B4A2-788663B56070}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A50C9F68-0CF3-469F-B4A2-788663B56070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A50C9F68-0CF3-469F-B4A2-788663B56070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AD527E2-4C7F-4BD6-A339-FAF0248AB7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD527E2-4C7F-4BD6-A339-FAF0248AB7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD527E2-4C7F-4BD6-A339-FAF0248AB7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD527E2-4C7F-4BD6-A339-FAF0248AB7BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
