@@ -25,7 +25,16 @@ namespace LinqDemo
             var squaredNumbers = numbers.Select(n => n * n);
             Display(squaredNumbers);
 
+
+            Console.WriteLine("\nNumbers in reverse");
+            // Create a new list from the original one
+            List<int> reverseNumbers = numbers.ToList();
+            // Reverse the new list in-place
+            reverseNumbers.Reverse(); 
+            Display(reverseNumbers);
+
             Console.ReadLine();
+
         }
 
         static void Display(IEnumerable<int> numbers)
