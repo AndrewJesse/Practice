@@ -37,6 +37,11 @@ namespace LinqDemo
             int totalNumbers = numbers.Sum();
             Console.WriteLine(totalNumbers);
 
+            
+            Console.WriteLine("\nNumber is 30");
+            var numberino = numbers.Where(n => n == 30);
+            Display(numberino);
+
 
             Console.ReadLine();
 
