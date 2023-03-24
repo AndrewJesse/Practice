@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "John Doe",
+    "Age": 30,
+    "Email": "johndoe@example.com"
+  },
+  {
+    "Name": "Jane Doe",
+    "Age": 28,
+    "Email": "janedoe@example.com"
+  },
+  {
+    "Name": "Alice Smith",
+    "Age": 35,
+    "Email": "alicesmith@example.com"
+  },
+  {
+    "Name": "Bob Johnson",
+    "Age": 42,
+    "Email": "bjohnson@example.com"
+  },
+  {
+    "Name": "Emily Chen",
+    "Age": 25,
+    "Email": "echen@example.com"
+  },
+  {
+    "Name": "David Lee",
+    "Age": 29,
+    "Email": "davidlee@example.com"
+  },
+  {
+    "Name": "Sarah Kim",
+    "Age": 31,
+    "Email": "sarahkim@example.com"
+  },
+  {
+    "Name": "Mike Brown",
+    "Age": 27,
+    "Email": "mbrown@example.com"
+  },
+  {
+    "Name": "Rachel Thompson",
+    "Age": 38,
+    "Email": "rthompson@example.com"
+  },
+  {
+    "Name": "Alex Rodriguez",
+    "Age": 33,
+    "Email": "arodriguez@example.com"
+  },
+  {
+    "Name": "Samantha Davis",
+    "Age": 26,
+    "Email": "sdavis@example.com"
+  },
+  {
+    "Name": "Kevin Wilson",
+    "Age": 44,
+    "Email": "kwilson@example.com"
+  },
+  {
+    "Name": "Linda Hernandez",
+    "Age": 29,
+    "Email": "lhernandez@example.com"
+  },
+  {
+    "Name": "Jason Brown",
+    "Age": 37,
+    "Email": "jasonbrown@example.com"
+  },
+  {
+    "Name": "Catherine Baker",
+    "Age": 32,
+    "Email": "cbaker@example.com"
+  },
+  {
+    "Name": "Erica Davis",
+    "Age": 28,
+    "Email": "ericadavis@example.com"
+  },
+  {
+    "Name": "Steve Kim",
+    "Age": 39,
+    "Email": "skim@example.com"
+  },
+  {
+    "Name": "Ashley Johnson",
+    "Age": 24,
+    "Email": "ajohnson@example.com"
+  },
+  {
+    "Name": "Justin Garcia",
+    "Age": 31,
+    "Email": "jgarcia@example.com"
+  },
+  {
+    "Name": "Amanda Martinez",
+    "Age": 36,
+    "Email": "amartinez@example.com"
+  }
+]
