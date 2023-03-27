@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonReader", "JsonReader\Js
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssesmentQuestions", "AssesmentQuestions\AssesmentQuestions.csproj", "{9303F2A1-46A5-4396-99BE-60AEFF6C64B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseString", "ParseString\ParseString.csproj", "{ADCA620C-AF3C-44C9-A54D-4F06EE8A6AB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9303F2A1-46A5-4396-99BE-60AEFF6C64B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9303F2A1-46A5-4396-99BE-60AEFF6C64B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9303F2A1-46A5-4396-99BE-60AEFF6C64B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCA620C-AF3C-44C9-A54D-4F06EE8A6AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCA620C-AF3C-44C9-A54D-4F06EE8A6AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCA620C-AF3C-44C9-A54D-4F06EE8A6AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCA620C-AF3C-44C9-A54D-4F06EE8A6AB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
